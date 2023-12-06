@@ -20,9 +20,9 @@ function App() {
       <Route path='/' element={<ItemListContainer greeting='¡Bienvenidos!'/>} />
       <Route path='/category/:id' element={<ItemListContainer/>} />
       <Route path='/item/:id' element={<ItemDetailContainer/>} />
-      <Route path='/armas' element={<Armas greeting='¡Armas!'/>} />
-      <Route path='/armaduras' element={<Armaduras greeting='¡Armaduras!'/>} />
-      <Route path='/magia' element={<Magia greeting='¡Items mágicos!'/>} />
+      <Route path='/armas' element={<Armas/>} />
+      <Route path='/armaduras' element={<Armaduras/>} />
+      <Route path='/magia' element={<Magia/>} />
       <Route path='/cart' element={<CartWidget/>} />
       <Route path='*' element={<Error/>} />
     </Routes>

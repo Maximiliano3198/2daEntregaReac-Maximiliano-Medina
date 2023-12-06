@@ -1,9 +1,9 @@
 [
-    { "id": 1, "nombre": "Espada de madera", "descripcion": "Descripción del producto 1", "imagen": "/public/EspadaMadera.png", "precio": 1000, "categoria": "armas", "stock": 5 },
-    { "id": 2, "nombre": "Espada de acero", "descripcion": "Descripción del producto 2", "imagen": "/public/EspadaAcero.png", "precio": 2000, "categoria": "armas", "stock": 2 },
-    { "id": 3, "nombre": "Pechera de cuero", "descripcion": "Descripción del producto 3", "imagen": "/public/PecheraCuero.png", "precio": 1500, "categoria": "armaduras", "stock": 3 },
-    { "id": 4, "nombre": "Pantalones de cuero", "descripcion": "Descripción del producto 4", "imagen": "/public/PantalonesCuero1.png", "precio": 2500, "categoria": "armaduras", "stock": 3 },
-    { "id": 5, "nombre": "Grimorio de Llamas", "descripcion": "Descripción del producto 5", "imagen": "/public/GrimorioLlamas.png", "precio": 3000, "categoria": "magia", "stock": 5 },
-    { "id": 6, "nombre": "Grimorio de Nigromancia", "descripcion": "Descripción del producto 6", "imagen": "/public/GrimorioNigromante.png", "precio": 5000, "categoria": "magia", "stock": 2 }
+    { "id": 1, "nombre": "Espada de madera", "descripcion": "Descripción del producto 1", "imagen": "/EspadaMadera.png", "precio": 1000, "categoria": "armas", "stock": 5 },
+    { "id": 2, "nombre": "Espada de acero", "descripcion": "Descripción del producto 2", "imagen": "/EspadaAcero.png", "precio": 2000, "categoria": "armas", "stock": 2 },
+    { "id": 3, "nombre": "Pechera de cuero", "descripcion": "Descripción del producto 3", "imagen": "/PecheraCuero.png", "precio": 1500, "categoria": "armaduras", "stock": 3 },
+    { "id": 4, "nombre": "Pantalones de cuero", "descripcion": "Descripción del producto 4", "imagen": "/PantalonesCuero1.png", "precio": 2500, "categoria": "armaduras", "stock": 3 },
+    { "id": 5, "nombre": "Grimorio de Llamas", "descripcion": "Descripción del producto 5", "imagen": "/GrimorioLlamas.png", "precio": 3000, "categoria": "magia", "stock": 5 },
+    { "id": 6, "nombre": "Grimorio de Nigromancia", "descripcion": "Descripción del producto 6", "imagen": "/GrimorioNigromante.png", "precio": 5000, "categoria": "magia", "stock": 2 }
   ]
   
